@@ -35,7 +35,7 @@
        <div id="barra" style="height: 400px"></div>
   </div>
 
-  <!-- Force next columns to break to new line at md breakpoint and up -->
+  <!-- Force next columns to break to new line at md breakpoint and up  NUEVA MODIFICACION-->
   <div class="w-100 d-none d-md-block"></div>
 
   <div class="col-7">  <select class="form-control" onchange="barra(this.value);">
